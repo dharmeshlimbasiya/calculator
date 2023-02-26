@@ -1,0 +1,35 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+    /* text-align: center; */
+    
+}
+
+.mx-auto{
+   margin: auto;
+
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+
+}
+
+.item-center{
+    text-align: center;
+}
+
+.input{
+    /* margin: 40px; */
+    padding: 10px;
+    height: 17px;
+    border-radius: 9px;
+    width: 34vh;
+}
